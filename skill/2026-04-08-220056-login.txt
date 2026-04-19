@@ -1,0 +1,1018 @@
+ ▐▛███▜▌   Claude Code v2.1.96
+▝▜█████▛▘  Sonnet 4.6 · Claude Pro
+  ▘▘ ▝▝    /workspaces/interview-coach-skill/interview-coach-skill
+
+  ✻ Voice mode is now available · /voice to enable
+
+ Large CLAUDE.md will impact performance (47.0k chars > 40.0k) · /memory to edit
+
+
+❯ login                                                                         
+
+  Searched for 1 pattern (ctrl+o to expand)
+  ⎿  2 skills available
+
+● No existing coaching state found. Welcome! It looks like you're new here.
+
+  I'm your Interview Coach — I combine structured coaching with rigorous,
+  evidence-based feedback to help you land the role you're after.
+
+  To get started, run kickoff and I'll build your coaching profile: target role,
+   timeline, where you are in your search, and what we'll focus on first.
+
+  Or type help to see the full list of commands available.
+
+  What would you like to do?
+
+❯ kickoff                                                                       
+
+  Read 1 file (ctrl+o to expand)
+
+● Let's build your coaching profile. I'll take this one question at a time.
+
+  Question 1 of 6:
+
+  Would you like to do Quick Prep or Full System?
+
+  - Quick Prep — Targeted sprint for a specific upcoming interview. Best if you
+  have a company in mind and limited time.
+  - Full System — Full coaching lifecycle: storybank, practice, progression
+  drills, differentiation. Best if you're running an active search or want to
+  build durable interview skills.
+
+❯ quick prep                                                                    
+
+● Question 2 of 6:
+
+  What's the target role? (Job title and, if you know it, the company.)
+
+❯ Business Insight & Data Analytics Lead                                        
+
+● Got it. Question 3 of 6:
+
+  What's your feedback directness preference — how direct do you want me to be
+  with feedback?
+
+  - 5 — Maximum directness. No softening, no compliment sandwich. Tell me the
+  truth, even if it stings.
+  - 4 — Direct with brief acknowledgment.
+  - 3 — Balanced — strengths and gaps get equal airtime.
+  - 2 — Lead with strengths, transition to gaps gently.
+  - 1 — Maximum encouragement framing. Focus on growth and next steps.
+
+  (Default is 5.)
+
+❯ 4                                                                             
+
+● Question 4 of 6:
+
+  What's your interview timeline? Do you have an interview scheduled, and if so,
+   when?
+
+❯ next monday 9:30 AM                                                           
+
+● That's 6 days out — focused mode. Enough time for targeted prep, not a full
+  system build.
+
+  Question 5 of 6:
+
+  What's your biggest concern going into this interview?
+
+❯ my oral english(fluentness, logic, storytelling, present my project) and      
+  technical question                                                            
+
+● Good to know — that's a dual concern: communication delivery and technical
+  depth.
+
+  Question 6 of 6:
+
+  Tell me about your interview experience. Have you done interviews for this
+  type of role before? How have they gone?
+
+❯ I had once before. I was not performed good when they asked me some           
+  followed-up questions about technical questions(like how was you python       
+  skills or how many rows in your datasets and where they are coming from) or i 
+   could't storyteling my project logically (sometimes I lost it to what i      
+  gonna tell)                                                                   
+
+● That's a clear pattern: follow-up technical probing catches you off guard, and
+   project storytelling loses structure mid-answer. Both are very fixable with
+  the right prep.
+
+  Now I need your resume to build your coaching profile. Please paste the text
+  here (or describe your background if you don't have it handy — company names,
+  roles, years, key projects).
+
+❯ Le She                                                                        
+                                                                                
+  087 435 4780 | leshe.tcd@gmail.com | linkedin.com/in/liamsheh | Dublin 18 |   
+  Spouse Stamp 1G                                                               
+                                                                                
+  SUMMARY                                                                       
+                                                                                
+  Data-driven Analyst with a Master’s in Statistics and a rare                  
+  interdisciplinary background in Finance and Computer Science. Possesses a     
+  solid foundation in financial reporting and risk detection (EDD/KYC),         
+  reinforced by 2 years of financial analysis experience and the completion of  
+  9 ACCA papers. Adept at utilizing Python and SQL to perform large-scale data  
+  modeling, insight analysis, and interactive visualization. Passionate about   
+  evolving traditional financial functions through advanced data analytics and  
+  engineering.                                                                  
+                                                                                
+  EDUCATION                                                                     
+                                                                                
+  University of Dublin, Trinity College Dublin Master of Science in Statistics, 
+   Concentrate on Data Science Core courses: Advanced Statistics, Data          
+  analysis, Advance Linear Models, Time Series, Multivariate Analysis Nantong   
+  University, China Bachelor of Science in Accounting and Finance, ACCA 9/13    
+  (without exemption)                                                           
+                                                                                
+  SKILLS                                                                        
+                                                                                
+  Sep 23 - Nov 24 Grade: 2:1                                                    
+                                                                                
+  Sep 17 - Jun 21 Grade: 1:1                                                    
+                                                                                
+  Programming & Data Analytics Database & Visulization Other Rewards Habits     
+                                                                                
+  Python (Pandas, NumPy, Scikit-learn, Seaborn), R (tidyr, dplyr, nlme, lme4,   
+  ggplot2) SQL (Joins, CTE, Subquery), Excel (VBA, Pivot, Query), Tableau       
+  (Dashboard, Forecasting) Snowflake, Google Cloud, SAP, Git, Statistical       
+  Modelling, Robtic Process Automation First-class Scholarship, Outstanding     
+  ACCA Student, Outstanding Student Union Officer Mountain Engineering, Film    
+  photograph & development                                                      
+                                                                                
+  PROFESSIONAL EXPERIENCE                                                       
+                                                                                
+  Analyst - Strategy, Risk & Transactions, Full-time | Deloitte, Dublin,        
+  Ireland Mar 25 - Present  Possess a deep understanding of financial crime    
+  with hands-on experience in prevention strategies, leveraging systems like    
+  Compliance                                                                    
+                                                                                
+  for enhanced due diligence, along with practical application of asset         
+  trace-back and contract review to mitigate financial crime risks.  Analyzed  
+  5K+ payment transaction alerts weekly utilizing SQL with clear documentation, 
+   and streamlined SOPs based on established                                    
+                                                                                
+  precedents, reducing false positives by 20% through rigorous verification and 
+   ensuring compliance with global sanctions regimes.  Collaborated with data  
+  and internal teams to deliver timely and accurate visualized reports to       
+  seniors via Power BI and Excel, and                                           
+                                                                                
+  improve the efficiency of sanctions screening processes, proactively          
+  resolving case reviews reducing 30% time.                                     
+                                                                                
+  Finance Analyst, Full-time | IFF (Forbes 500), Suzhou, China Mar 22 - Jun 23  
+   Controlled general ledger and sub-ledgers Journal entry postings in line    
+  with USGAAP and local financial standards, redesigning JE upload              
+                                                                                
+  file base on Excel-VBA and Python which reduced the error postings to 2% each 
+   month, which showcase the solid financial statements                         
+                                                                                
+  interpretation.                                                               
+                                                                                
+   Performed in-depth Profit & Loss analysis for two global entities, Korea &  
+  Japan, providing actionable insights that guided cost control and             
+                                                                                
+  informed executive decision-making via fundamental, sensitivity & trend       
+  analysis. Delivered presentations to finance controllers which                
+                                                                                
+  optimized the working capital management and cost control.                    
+                                                                                
+   As the key person for the Korean entity's first annual audit, I coordinated 
+   with 6 financial departments to obtain sufficient audit evidence,            
+                                                                                
+  promptly delivered the materials to the audit team, and effectively addressed 
+   their inquiries.                                                             
+                                                                                
+   In line with USGAAP and IFRS, I assisted the manager in executing 5 audit   
+  adjustments such as asset amortization, present value                         
+                                                                                
+  discounting of long-term borrowings, and DC pension, with delivering an       
+  accurate USGAAP reconciliation report.                                        
+                                                                                
+  Audit Assurance Intern, Full-time Intern | BDO, Shanghai, China Mar - Jun 21  
+   Collaborated with teammate and manager to deliver 3+ listed company audit   
+  reports, casting the data and intro-logic between financial                   
+                                                                                
+  statements and audit reports by VBA and Xlookup/Pivot.                        
+                                                                                
+   Prepared 10+ audit working papers, performing several tests of control and  
+  substantive procedures to evaluate client's audit risk. The core              
+                                                                                
+  general ledger involved bank and cash equivalents, short-term loans, account  
+  receivables, non-current assets, etc.                                         
+                                                                                
+   Assisted the project manager in engaging with clients in deciding the       
+  performance materiality level through the fundament analysis of the           
+                                                                                
+  client’s trial balance.                                                       
+                                                                                
+  RELEVANT PROJECTS                                                             
+                                                                                
+  Robotic Process Automation (RPA) Project, Cockpit | IFF  Collaborated with   
+  Accenture to streamline business processes, conducted business process        
+  analysis to identify areas for improvement, and                               
+                                                                                
+  participated in the design and testing phases, providing timely feedback      
+  during weekly meetings.                                                       
+                                                                                
+   Involved in designing an automated MEC process that optimised 3 cycle runs, 
+   enhancing the team's daily efficiency by at least 40%. This                  
+                                                                                
+  included batch processing cycles, automatic information verification, and     
+  supplementary verification scripts, all implemented using                     
+                                                                                
+  Python/Excel and SAP Shortcuts.                                               
+                                                                                
+  Financial Data Modeling, Price Prediction for Equity Markets | Trinity        
+  College  Developed a Python-based framework using custom technical           
+  indicators (MACD/RSI) and time-series models (ARMA/ARIMA) to                  
+                                                                                
+  forecast momentum and volatility across multi-asset portfolios.               
+                                                                                
+   Engineered a Mean-Variance Optimization model to determine optimal weights, 
+   successfully minimizing downside deviation while                             
+                                                                                
+  achieving a 5.24% risk-adjusted benchmark return.                             
+
+● Solid background — let me analyze this properly.
+
+  Read 1 file (ctrl+o to expand)
+
+● Good enough context. Let me build your full kickoff summary now.
+
+  ---
+  Kickoff Summary
+
+  - Track: Quick Prep
+  - Target Role: Business Insight & Data Analytics Lead
+  - Seniority band: Mid-career (Lead / Senior Analyst level)
+  - Timeline: Monday 2026-04-13, 9:30 AM — 6 days out
+  - Interview history: Active but not advancing — 1 prior interview, struggled
+  with follow-up technical probes and mid-story disorientation
+  - Target fit assessment: Stretch — seniority gap flagged (see below)
+  - Feedback Directness: 4
+  - Time-aware coaching mode: Focused
+
+  ---
+  Profile Snapshot (from resume analysis)
+
+  Positioning strengths:
+  1. Rare triple-track profile: Finance credibility (ACCA 9/13, audit at BDO,
+  P&L at IFF) + Data Engineering skills (Python, SQL, R, Snowflake) + Academic
+  rigor (MSc Statistics, Trinity College Dublin). Very few candidates in data
+  analytics have this combination.
+  2. Real production-scale work: 5K+ transaction alerts weekly at Deloitte with
+  measurable outcomes (20% false positive reduction, 30% time saved). Not just
+  academic projects.
+  3. Cross-functional delivery: coordinated 6 departments for Korea's first
+  annual audit; collaborated with Accenture on RPA. Shows you can work across
+  silos, not just crunch numbers.
+
+  Likely interviewer concerns:
+  1. Seniority gap: Current title is Analyst. "Lead" implies owning a function
+  or team. No explicit people management or team lead experience on the resume.
+  2. English fluency under pressure: You flagged this yourself — and follow-up
+  technical probing is exactly where fluency breaks down under pressure.
+  3. Technical depth gaps: Python and SQL are listed, but interviewers will
+  probe specifics — dataset sizes, libraries used, performance at scale,
+  debugging approaches.
+  4. Short tenure pattern: IFF was ~15 months; Deloitte just over a year. Could
+  raise a question about stickiness.
+
+  Career narrative gaps:
+  - The shift from audit/finance → data analytics is coherent (MSc bridges it),
+  but you'll need a clean 30-second version of why — "I wasn't leaving finance,
+  I was upgrading how I applied it."
+  - "Lead" with no leadership examples = a gap you'll need to bridge with
+  project ownership stories.
+
+  Story seeds (rich material worth capturing):
+  1. RPA project at IFF — 40% efficiency gain, Accenture collaboration, designed
+   automated MEC process. Strong ownership + cross-functional story.
+  2. Korean entity first annual audit — first-ever audit, 6 departments
+  coordinated under pressure. Leadership under ambiguity.
+  3. Deloitte sanctions screening — 5K+ alerts/week, 20% false positive
+  reduction. Analytical rigor + process improvement.
+  4. Price prediction model at Trinity — ARMA/ARIMA, custom indicators, 5.24%
+  risk-adjusted return. Technical depth story.
+
+  ---
+  Target Reality Check
+
+  - Target: Business Insight & Data Analytics Lead
+  - Gap identified: No explicit people management, team lead, or function
+  ownership experience. Current and previous titles are "Analyst."
+  - Gap type: Seniority
+  - Recommendation: Don't retreat from the target — but you need 2-3 stories
+  that demonstrate de facto leadership: owning a project end-to-end, setting
+  direction for others, or driving decisions above your pay grade. The RPA
+  project and Korean audit both have this potential. We'll build those
+  deliberately.
+
+  ---
+  Interview Readiness Assessment
+
+  - Current readiness: Has a strong foundation but critical gaps — technical
+  depth and structured storytelling under pressure
+  - Biggest risk: Losing the thread on a project story when follow-up questions
+  come — currently happens because the story isn't structured tightly enough
+  before the interview. Preparation is the fix, not fluency.
+  - Biggest asset: The triple-track profile is genuinely rare. If you can tell
+  it cleanly, you're memorable.
+
+  ---
+  First Plan (6 days to Monday)
+
+  Immediate (today / tomorrow)
+
+  1. Build your top 3-4 STAR stories — stories add — RPA project, Korean audit,
+  Deloitte sanctions work, Trinity price model. These are your answers to both
+  behavioral and technical follow-ups.
+
+  Days 3-4
+
+  2. Prep for this specific company/role — prep [company name] — once you share
+  the JD or company, I'll map your stories to the role's competencies and
+  identify technical questions to expect.
+  3. Technical Q&A drill — practice technical — focused on Python/SQL follow-up
+  questions (dataset sizes, library choices, debugging). The goal: have clean,
+  honest 2-sentence answers ready so you stop freezing.
+
+  Days 5-6 (Saturday-Sunday)
+
+  4. Mock interview — mock behavioral — I'll run a full simulated interview with
+   follow-up probes, and we'll work on keeping the thread when pressure
+  increases.
+  5. Hype session — hype — Sunday evening. 3x3 plan for the morning.
+
+  Recommended next: stories add — building structured STAR stories is the single
+   highest-leverage action with 6 days left. Every other drill depends on having
+   solid stories. Alternatives: prep [company] if you have the JD handy,
+  practice technical if you want to tackle the Python/SQL anxiety first.
+
+  ---
+  By the way — type help anytime to see the full list of commands available to
+  you.
+
+  What's the company name and do you have the job description? That'll sharpen
+  everything.
+
+  Saving your coaching state now...
+
+● Write(coaching_state.md)
+  ⎿  Wrote 162 lines to coaching_state.md
+       1 # Coaching State — Le She
+       2 Last updated: 2026-04-08
+       3 
+       4 ## Profile
+       5 - Target role(s): Business Insight & Data Analytics Lead
+       6 - Seniority band: Mid-career (Lead / Senior Analyst level)
+       7 - Track: Quick Prep
+       8 - Feedback directness: 4
+       9 - Interview timeline: 2026-04-13 (Monday, 9:30 AM)
+      10 - Time-aware coaching mode: focused
+     … +152 lines (ctrl+o to expand)
+
+● Session state saved. Ready to build your stories whenever you are — that's the
+   highest-leverage move with 6 days left.
+
+  Run stories add to start, or share the job description first if you have it
+  and want to target the stories to the role.
+
+✻ Brewed for 1m 40s
+
+❯ Job Description: Business Insight & Data Analytics Lead                       
+                                                                                
+  We currently have an exciting opportunity for a Business Insight & Data       
+  Analytics Lead to join our Bunzl Ireland Group team. This role supports our   
+  businesses across Ireland and can be based either at our Drumsill             
+  Distribution Centre on Moy Road, Armagh, or at our Horizon Distribution       
+  Centre, Dublin with the flexibility to work remotely up to two days a week.   
+                                                                                
+  Role Overview At Bunzl Ireland, data isn’t just numbers — it’s how we         
+  understand our customers, strengthen our operations, and shape the future. As 
+   a Business Insight & Data Analytics Lead you will transform raw information  
+  into clear insights, smarter decisions, and meaningful change. This is a role 
+   for someone who enjoys exploring data, communicating stories through         
+  numbers, and spotting opportunities where others might see complexity.        
+                                                                                
+  Key Responsibilities                                                          
+                                                                                
+  • Integrate data from multiple sources to build a unified view of             
+  performance, supporting faster and more accurate decisions.                   
+                                                                                
+  • Use analytical techniques — from modelling to machine learning — to reveal  
+  insights and drive innovation.                                                
+                                                                                
+  • Build dashboards, reports, and KPIs that help teams move faster and make    
+  better decisions.                                                             
+                                                                                
+  • Lead the identification and delivery of automation opportunities that       
+  reduce manual effort and enhance the quality of business insights.            
+                                                                                
+  • Translate complex findings into clear, practical recommendations for both   
+  technical and non-technical audiences.                                        
+                                                                                
+  • Champion data quality and consistency, ensuring our reporting remains       
+  reliable and trusted.                                                         
+                                                                                
+  • Support senior leadership with impactful insights that help shape           
+  commercial and operational strategy.                                          
+                                                                                
+  • Collaborate closely with Finance, Operations, Sales, Supply Chain and IT    
+  teams, becoming a trusted partner across the business. Required               
+  Qualifications & Experience                                                   
+                                                                                
+  • Experience turning data into insight through analytics, reporting, or       
+  modelling.                                                                    
+                                                                                
+  • Strong Microsoft capability (Excel, Power BI, PowerPoint), with curiosity   
+  for emerging tools and AI technologies.                                       
+                                                                                
+  • A natural problem solver with sharp analytical approach with a passion for  
+  turning complexity into clarity                                               
+                                                                                
+  • Confidence communicating complex ideas in clear, engaging ways.             
+                                                                                
+  • A proactive attitude and genuine appetite to learn, grow, and explore new   
+  possibilities.                                                                
+                                                                                
+  • A full Driver’s License is required as the role will involve travel between 
+   the various Bunzl sites throughout Ireland.                                  
+                                                                                
+  Desirable Skills & Experience                                                 
+                                                                                
+  • Experience with ERP or data warehouse environments.                         
+                                                                                
+  • Experience working with SQL and Python                                      
+                                                                                
+  • Knowledge of supply chain, distribution, or commercial operations.          
+                                                                                
+  • Interest in automation, AI, or advanced analytics.                          
+                                                                                
+  • Understanding of data governance and best practice reporting.               
+                                                                                
+  Why Join Us?                                                                  
+                                                                                
+  • A dynamic role with the ability to influence strategic decision-making      
+                                                                                
+  • Hands-on work with senior leaders across the business                       
+                                                                                
+  • Flexible, supportive working environment                                    
+                                                                                
+  • Strong focus on personal and professional development                       
+                                                                                
+  • You’ll have access to learning pathways in analytics, AI and automation,    
+  and support to attend relevant training, workshops and industry events. On    
+  top of this, we offer a competitive salary and benefits package including:    
+                                                                                
+  • 29 days holidays (increasing to 34 days with service)                       
+                                                                                
+  • Opportunity to purchase additional holiday                                  
+                                                                                
+  • Healthcare cash plan                                                        
+                                                                                
+  • Life assurance                                                              
+                                                                                
+  • Company pension                                                             
+                                                                                
+  • Employee Assistance Programme                                               
+                                                                                
+  • Employee retail discounts                                                   
+                                                                                
+  • Sharesave plan                                                              
+                                                                                
+  • Long service awards                                                         
+                                                                                
+  • Enhanced maternity/paternity pay                                            
+                                                                                
+  • Cycle to Work Scheme                                                        
+
+  Read 1 file (ctrl+o to expand)
+
+● Good — I have what I need to decode this properly. Running a Standard decode
+  now.
+
+  ---
+  JD Decode: Bunzl Ireland — Business Insight & Data Analytics Lead
+
+  Decode Summary
+
+  - Role type: Hands-on function lead — both doing the analytics work AND owning
+   the function. Not a people manager, not a pure strategist. Think "senior IC
+  who leads initiatives."
+  - Seniority signal: Senior Analyst / Lead IC — MEDIUM confidence. The word
+  "Lead" appears but no direct reports are mentioned, no budget ownership, no
+  team size stated. This is likely the anchor person for analytics, possibly the
+   only or most senior analyst.
+  - Team signal: Early-to-maturing data function — LOW confidence. Language like
+   "data isn't just numbers" and "becoming a trusted partner" suggests the
+  function is building credibility internally. Analytics may not be fully
+  embedded yet.
+  - JD quality: Well-written, clear signal density. Not a kitchen-sink wish
+  list.
+
+  ---
+  Competency Map (priority order)
+
+  #: 1
+  Competency: Data storytelling — translating complex findings for non-technical
+
+    audiences
+  Confidence: HIGH
+  Type: Screening
+  Repetition: 3x
+  Source: Responsibilities, Requirements, Role Overview
+  ────────────────────────────────────────
+  #: 2
+  Competency: Analytics + modelling (including ML awareness)
+  Confidence: HIGH
+  Type: Screening
+  Repetition: 3x
+  Source: Responsibilities, Requirements, Desirable
+  ────────────────────────────────────────
+  #: 3
+  Competency: Microsoft stack (Power BI, Excel, PowerPoint)
+  Confidence: HIGH
+  Type: Screening
+  Repetition: 2x
+  Source: Requirements, Responsibilities (dashboards/KPIs)
+  ────────────────────────────────────────
+  #: 4
+  Competency: Cross-functional collaboration (Finance, Ops, Sales, Supply Chain,
+
+    IT)
+  Confidence: HIGH
+  Type: Screening
+  Repetition: 3x
+  Source: Responsibilities, Requirements
+  ────────────────────────────────────────
+  #: 5
+  Competency: Automation and process improvement
+  Confidence: MEDIUM
+  Type: Differentiating
+  Repetition: 2x
+  Source: Responsibilities, Desirable
+  ────────────────────────────────────────
+  #: 6
+  Competency: Data integration from multiple sources (ERP/DWH)
+  Confidence: MEDIUM
+  Type: Differentiating
+  Repetition: 1x
+  Source: Responsibilities, Desirable
+  ────────────────────────────────────────
+  #: 7
+  Competency: Data quality and governance
+  Confidence: MEDIUM
+  Type: Differentiating
+  Repetition: 1x
+  Source: Responsibilities, Desirable
+
+  ---
+  6-Lens Analysis
+
+  Lens 1 — Repetition Frequency
+  "Decisions" appears 3 times — this role's primary purpose is enabling better
+  decisions, not just producing reports. "Collaborate" and "teams" appear 4+
+  times — cross-functional trust is a primary evaluation criterion. "Clear" /
+  "clarity" appears explicitly twice — they've been burned by analysts who can't
+   communicate findings.
+
+  Lens 2 — Order & Emphasis
+  First responsibility: integrate data from multiple sources. This signals the
+  data environment is fragmented — they likely pull from multiple systems (ERP,
+  CRM, finance, supply chain). The role starts with data engineering, not just
+  analysis. First requirement: experience turning data into insight —
+  deliberately broad, experience-over-tool-preference.
+
+  Lens 3 — Required vs. Nice-to-Have
+  Critical finding: Python and SQL are listed as desirable, not required. Power
+  BI and Excel are required. This tells you two things: (1) the current
+  analytics stack is Microsoft-centric; (2) your Python/SQL skills are a
+  differentiator above the baseline, not just a checkbox. Lead with them as a
+  value-add, not a requirement you barely meet.
+
+  Driver's License is listed as required with a travel note — flag this: do you
+  have a full license? If not, it's a structural gap worth addressing
+  proactively.
+
+  Lens 4 — Verb Choices
+  - "Lead the identification and delivery of automation" — ownership of the full
+   cycle, not just execution
+  - "Champion data quality" — advocacy, internal persuasion expected
+  - "Support senior leadership" — "support" (not "advise" or "partner") suggests
+   the analytics function is not yet at the decision table; the role builds
+  toward that
+  - "Becoming a trusted partner" — future state, not current state. They're
+  asking you to build the function's credibility.
+
+  Lens 5 — Between the Lines
+
+  Signal: "data isn't just numbers"
+  Likely Meaning: Analytics function is relatively new or underdeveloped — this
+    is a culture-building mandate
+  Confidence: LOW
+  Verify: "Can you tell me about the current state of the data and analytics
+    function?"
+  ────────────────────────────────────────
+  Signal: "becoming a trusted partner"
+  Likely Meaning: Internal data credibility is not fully established yet
+  Confidence: LOW
+  Verify: "How are analytics insights currently consumed by the business?"
+  ────────────────────────────────────────
+  Signal: Driver's license required, travel between sites
+  Likely Meaning: Significant site presence expected — more than occasional
+  Confidence: MEDIUM
+  Verify: "How frequently would travel between sites be expected week to week?"
+  ────────────────────────────────────────
+  Signal: Role available at two very different locations
+  Likely Meaning: May indicate they're flexible on hire location, or the role
+    genuinely splits time
+  Confidence: UNKNOWN
+  Verify: "Is this role primarily based at one site, or split across both?"
+  ────────────────────────────────────────
+  Signal: "emerging tools and AI technologies" in requirements
+  Likely Meaning: They want someone curious about AI/ML but aren't currently
+    doing serious ML. Forward-looking, not current state.
+  Confidence: MEDIUM
+  Verify: No verification needed — just don't overstate current AI capability
+
+  Lens 6 — What's Missing
+  - No direct reports or team size mentioned → this is almost certainly a solo
+  function lead or very small team. You're building something, not managing
+  something.
+  - No mention of specific supply chain or distribution domain knowledge in
+  requirements (only desirable) → finance analytics background transfers; you
+  don't need to be a supply chain specialist.
+  - No cloud platform named (AWS, Azure, GCP) in requirements → your Google
+  Cloud experience is a bonus, not an expectation.
+  - No mention of A/B testing, experimentation frameworks, or statistical
+  inference methods → this is an insight and reporting role, not a data science
+  research role.
+
+  ---
+  Fit Assessment
+
+  Verdict: Strong Fit — with one execution risk
+
+  Competency: Data storytelling / communication
+  Match: Partial → Strong
+  Evidence: Deloitte Power BI reports to seniors; IFF presentations to finance
+    controllers. GAP: oral delivery under follow-up pressure — a coaching
+    challenge, not a profile gap
+  ────────────────────────────────────────
+  Competency: Analytics + modelling
+  Match: Match
+  Evidence: MSc Statistics (Trinity); Python (scikit-learn, ARIMA/ARMA); SQL at
+    scale (5K+ alerts/week at Deloitte)
+  ────────────────────────────────────────
+  Competency: Microsoft stack (Power BI, Excel)
+  Match: Match
+  Evidence: Power BI at Deloitte; Excel VBA at IFF. Tableau listed too — broader
+
+    than required
+  ────────────────────────────────────────
+  Competency: Cross-functional collaboration
+  Match: Match
+  Evidence: Coordinated 6 departments for Korean audit; Accenture RPA
+    collaboration; Deloitte cross-team delivery
+  ────────────────────────────────────────
+  Competency: Automation and process improvement
+  Match: Strong Match
+  Evidence: RPA project at IFF — 40% efficiency gain, designed automated MEC
+    process with Python/SAP. This is a standout differentiator
+  ────────────────────────────────────────
+  Competency: Data integration / ERP
+  Match: Partial
+  Evidence: Snowflake, SAP, Google Cloud on resume — bridgeable with narrative.
+    No explicit data warehouse design story yet
+  ────────────────────────────────────────
+  Competency: Data quality / governance
+  Match: Partial
+  Evidence: Deloitte compliance work (sanctions regimes); IFF error reduction to
+
+    2%. Frameable as governance mindset
+
+  - Frameable gaps: Oral storytelling under pressure (coaching solves this);
+  data integration narrative (RPA + Snowflake bridge); "Lead" without explicit
+  title (project ownership stories bridge this)
+  - Structural gaps: None identified from profile. One flag: Driver's License
+  requirement — verify you have one.
+
+  ---
+  Question Prediction Seeds
+
+  Based on what this JD actually screens for:
+
+  1. "Tell me about a time you turned complex data into a recommendation that
+  changed how the business made decisions." (Competency 1 — will definitely be 
+  asked)
+  2. "Walk me through an analytics project end-to-end — from the problem you
+  identified to the insight you delivered." (General technical probe — will test
+   structure and depth)
+  3. "Tell me about a time you automated a process or identified an efficiency
+  opportunity." (Competency 5 — your RPA story is perfect here)
+  4. "How have you worked with stakeholders across different business
+  functions?" (Competency 4)
+  5. Follow-up probes to expect: "What was in the dataset?", "What tool did you
+  use and why?", "How did you know the insight was right?", "How did
+  stakeholders respond?"
+
+  ---
+  Verify With Recruiter
+
+  1. State of the data function — "Can you tell me a bit about the current
+  analytics setup — what tools and data sources are already in place?" (Helps 
+  you tailor your pitch: are you upgrading an existing system or building from 
+  scratch?)
+  2. Site travel expectations — "How often would travel between the Armagh and
+  Dublin sites typically be expected?" (Practical: this affects logistics and 
+  whether the role is workable)
+  3. Team size — "Is this a solo analytics function, or will I be working
+  alongside other analysts?" (Shapes how you frame your leadership stories)
+
+  ---
+  Learn to Read This Yourself
+
+  - Pattern spotted: The required vs. desirable split here is doing a lot of
+  work. Python and SQL — typically considered core for a data analytics lead —
+  are desirable in this JD. That tells you the current team is Microsoft-first.
+  Whenever you see a core tool in "desirable" rather than "required," it signals
+   the JD was written around the current team's profile, not the ideal future
+  state.
+  - Trap to watch for: "Lead" in the title without team or budget references
+  often means "function owner," not "people manager." Don't sell yourself as a
+  team manager here — sell yourself as someone who owns and builds a function.
+  - Next time, try: Count how many times the first verb of each responsibility
+  changes from "lead/drive/champion" to "support/assist/collaborate." The ratio
+  tells you how senior the role actually is vs. how senior the title sounds.
+
+  ---
+  Bottom line for your prep: Your profile is a strong fit. The automation story
+  (RPA at IFF) is your biggest differentiator and maps directly to a named
+  responsibility. The finance domain expertise transfers cleanly to
+  commercial/operational analytics. The only real risk is structured oral
+  delivery under follow-up pressure — which is exactly what we're going to fix
+  this week.
+
+  Recommended next: stories add — build your top 4 stories in tight STAR format,
+   mapped to Bunzl's top competencies. Alternatives: prep Bunzl for a full
+  interview brief, practice technical for Python/SQL follow-up drills.
+
+  Saving JD analysis...
+
+  Read 1 file (ctrl+o to expand)
+
+● Update(coaching_state.md)  ⎿  Added 9 lines
+       1  # Coaching State — Le She
+       2  Last updated: 2026-04-08
+       3  
+       4 +## JD Analysis: Bunzl Ireland — Business Insight & Data Analyti
+         +cs Lead                                                        
+       5 +- Date: 2026-04-08                                             
+       6 +- Depth: Standard                                              
+       7 +- Fit verdict: Strong Fit (with oral delivery execution risk)  
+       8 +- Top competencies: (1) Data storytelling / non-technical commu
+         +nication; (2) Analytics + modelling (Python, SQL, ML awareness)
+         +; (3) Microsoft stack (Power BI, Excel)                        
+       9 +- Frameable gaps: Oral storytelling under pressure (coaching); 
+         +data integration narrative (Snowflake/SAP bridge); "Lead" witho
+         +ut title (project ownership stories)                           
+      10 +- Structural gaps: None identified. Flag: Driver's License requ
+         +irement — verify candidate has one.                            
+      11 +- Unverified assumptions: 3 LOW/UNKNOWN items (state of data fu
+         +nction, site travel frequency, team size)                      
+      12 +                                                               
+      13  ## Profile
+      14  - Target role(s): Business Insight & Data Analytics Lead
+      15  - Seniority band: Mid-career (Lead / Senior Analyst level)
+
+● Update(coaching_state.md)
+  ⎿  Added 14 lines
+      69  - Revisit queue:
+      70  
+      71  ## Interview Loops (active)
+      72 +### Bunzl Ireland                                              
+      73 +- Status: Decoded                                              
+      74 +- Rounds completed:                                            
+      75 +- Round formats:                                               
+      76 +- Stories used:                                                
+      77 +- Concerns surfaced:                                           
+      78 +- Interviewer intel:                                           
+      79 +- Prepared questions:                                          
+      80 +- Next round: 2026-04-13, 9:30 AM                              
+      81 +- Fit verdict: Strong Fit                                      
+      82 +- Fit confidence: Medium — JD + resume (no storybank yet)      
+      83 +- Fit signals: Automation/RPA story maps directly to named JD r
+         +esponsibility; finance domain transfers to commercial analytics
+         +; Python/SQL are differentiators above baseline requirement    
+      84 +- Structural gaps: None. Driver's License requirement — verify.
+      85 +- Date researched: 2026-04-08                                  
+      86  
+      87  ## Active Coaching Strategy
+      88  - Primary bottleneck:
+
+● Also — quick practical question before we move into stories: do you have a 
+  full Driver's License? The JD lists it as required with a travel note between
+  Armagh and Dublin sites. If not, that's worth addressing proactively with the
+  recruiter.
+
+  Ready to build your stories whenever you are. Run stories add and we'll start
+  with the RPA project — it maps directly to Bunzl's automation responsibility
+  and is your strongest differentiator.
+
+✻ Churned for 2m 29s
+
+❯ I have chinese full drive license                                             
+  ⎿  ⧉ Selected 3 lines from coaching_state.md in Visual Studio Code
+
+● Worth flagging: in Ireland, a Chinese driver's license is generally not 
+  directly exchangeable for an Irish license (unlike EU/UK licenses). After a
+  period of residency, you'd typically need to go through the Irish driving test
+   process to get a valid Irish license.
+
+  If you don't currently have a valid Irish (or EU) license, this could be a
+  structural issue for this role — the travel requirement is explicit.
+
+  Recommended action before the interview:
+  Check your current license status. If it's an issue, you have two options:
+  1. Address it proactively with the recruiter now: "I'm currently in the 
+  process of converting my license to an Irish license — I want to flag that 
+  ahead of time." Honesty is better than it surfacing later.
+  2. If you've already started the Irish license process (theory test, lessons,
+  etc.), mention that progress directly.
+
+  Do you have an Irish driving license, or is the Chinese one your only current
+  license?
+
+❯ that was one I have now and it could drive in ireland                         
+
+● Got it — you know your own situation. I've flagged the concern; you're
+  confident it's fine, so we'll move on.
+
+  No structural gaps then. Your profile is a clean fit for this role.
+
+  Let's build your stories — this is the most important work before Monday. Run
+  stories add and we'll start with the RPA project at IFF.
+
+❯ intervier linkedin profile: Neil McArdle, Divisional Technology and Business  
+  Information Director(https://www.linkedin.com/in/neil-mcardle-87b37783/) &    
+  Emma Poland, HR Advisor(https://www.linkedin.com/in/emma-poland-362832175/)   
+
+● Fetch(https://www.linkedin.com/in/neil-mcardle-87b37783/)
+  ⎿  Error: Request failed with status code 999
+
+● Fetch(https://www.linkedin.com/in/emma-poland-362832175/)
+  ⎿  Error: Request failed with status code 999
+
+● LinkedIn blocks direct access (status 999 — their standard scraping block). I
+  can't read the profiles programmatically.
+
+  Here's what I can work with from what you've shared:
+
+  Neil McArdle — Divisional Technology and Business Information Director
+  - This is the hiring manager / technical evaluator. "Technology and Business
+  Information Director" means he owns both the tech infrastructure AND business
+  intelligence/reporting. He cares about practical business impact, not just
+  technical elegance.
+  - He'll likely probe: Can you translate data into business decisions? Have you
+   worked with tech and non-tech stakeholders? Can you own a function
+  independently?
+
+  Emma Poland — HR Advisor
+  - Standard HR screen role. She'll evaluate: culture fit, communication
+  clarity, motivation for the role, and basic competency examples.
+  - She'll likely ask: Why Bunzl? Tell me about yourself. Behavioral questions
+  (collaboration, handling challenges, adaptability).
+
+  What this panel tells you:
+  - Neil will go technical and strategic. Emma will go behavioral and
+  motivational. You need to be ready for both registers in the same interview —
+  or across two separate sessions.
+  - Do you know if this is a panel interview (both at once) or sequential?
+
+  One thing that would help: if you can open Neil's LinkedIn yourself and share
+  what you see (job history, how long at Bunzl, previous roles), I can build
+  much sharper interviewer intel. What companies and roles did he have before
+  Bunzl?
+
+● Update(coaching_state.md)
+  ⎿  Added 1 line, removed 1 line
+      75  - Round formats:
+      76  - Stories used:
+      77  - Concerns surfaced:
+      78 -- Interviewer intel:                                           
+      78 +- Interviewer intel: Neil McArdle (Divisional Technology and Bu
+         +siness Information Director) — hiring manager/technical evaluat
+         +or, owns tech + BI function, will probe business impact and fun
+         +ction ownership. Emma Poland (HR Advisor) — behavioral/culture 
+         +screen, will probe motivation, communication, fit. LinkedIn pro
+         +files inaccessible — candidate to share background manually if 
+         +available.                                                     
+      79  - Prepared questions:
+      80  - Next round: 2026-04-13, 9:30 AM
+      81  - Fit verdict: Strong Fit
+
+● In the meantime — ready to start building stories? The sooner we have tight
+  STAR stories locked in, the better everything else goes (mock, technical
+  drill, hype). Run stories add to start.
+
+❯ what i read from Neil's linkedin is he's expert of BI(tableau and power BI    
+  and salesforce) and he report this hiring post mentioned about need a         
+  talented BI Analyst. Besides, he had accounting background and the first job  
+  was financial reporting analyst which same as me.  his bio: A highly          
+  motivated and reliable Business Information Manager with extensive experience 
+   of BI, Reporting and ERP Systems. Proven ability to successfully analyse key 
+   business drivers, identify new opportunities for improvement and develop     
+  strong partnerships across the business ensuring business objectives are      
+  achieved. Proactive leader who enjoys being part of a successful and          
+  productive team and thrives in highly pressurised and challenging working     
+  environments whilst achieving positive outcomes. Possesses excellent          
+  interpersonal skills used to great effect when dealing with a wide range of   
+  stakeholders and able to communicate concisely at all levels.                 
+
+● This is excellent intel — changes the prep strategy meaningfully. Let me break
+   down what this tells you.
+
+  ---
+  Key insights on Neil:
+
+  1. He has your exact background.
+  Finance → financial reporting analyst → BI leadership. He lived the path
+  you're on. This is the single most powerful connection in this interview — not
+   to flatter him, but because he will immediately recognize what you're doing
+  and why. He knows the value of someone who can read a P&L and build a
+  dashboard. Don't hide the finance background; lead with it.
+
+  2. He posted "talented BI Analyst" — not "Lead."
+  The job title says Lead but Neil's framing says Analyst. That resolves the
+  seniority concern entirely. He's looking for someone who can do the work with
+  initiative, not manage a team. Don't over-pitch leadership credentials — pitch
+   analytical capability, ownership, and proactivity.
+
+  3. He knows Tableau and Power BI deeply.
+  He will probe your tool knowledge specifically. Vague answers ("I've used
+  Power BI") won't land. You need to be ready to say: what dashboards you built,
+   what data fed them, who consumed them, and what decisions they informed. Your
+   Deloitte Power BI work needs specific detail ready.
+
+  4. His own words tell you exactly what he values:
+  - "Identify new opportunities for improvement" → your RPA project is a direct
+  match
+  - "Develop strong partnerships across the business" → your Korean audit
+  cross-department coordination
+  - "Communicate concisely at all levels" → he's a high bar here; he'll notice
+  if you ramble
+
+  5. Salesforce in his stack.
+  Bunzl likely uses Salesforce (probably for sales/CRM data). You don't have it
+  on your resume — that's fine, it's not in the JD requirements — but if it
+  comes up, be honest: "I haven't used Salesforce directly, but I've worked with
+   similar CRM/ERP data extraction through SAP and Snowflake."
+
+  ---
+  Your positioning with Neil in one sentence:
+  "I started where you started — financial reporting — and I'm building the same
+   bridge you built. Here's what I've already built."
+
+  ---
+
+● Update(coaching_state.md)
+  ⎿  Added 1 line, removed 1 line
+      75  - Round formats:
+      76  - Stories used:
+      77  - Concerns surfaced:
+      78 -- Interviewer intel: Neil McArdle (Divisional Technology and Bu
+         -siness Information Director) — hiring manager/technical evaluat
+         -or, owns tech + BI function, will probe business impact and fun
+         -ction ownership. Emma Poland (HR Advisor) — behavioral/culture 
+         -screen, will probe motivation, communication, fit. LinkedIn pro
+         -files inaccessible — candidate to share background manually if 
+         -available.                                                     
+      78 +- Interviewer intel: Neil McArdle (Divisional Technology and Bu
+         +siness Information Director) — BI expert (Tableau, Power BI, Sa
+         +lesforce), accounting background, first job was Financial Repor
+         +ting Analyst (same path as candidate). Posted role as "talented
+         + BI Analyst" — wants hands-on IC with initiative, not a team ma
+         +nager. Values: identifying improvement opportunities, cross-bus
+         +iness partnerships, concise communication. Will probe tool dept
+         +h specifically. Key angle: shared finance→BI career path. Emma 
+         +Poland (HR Advisor) — behavioral/culture screen, motivation, co
+         +mmunication clarity, fit.                                      
+      79  - Prepared questions:
+      80  - Next round: 2026-04-13, 9:30 AM
+      81  - Fit verdict: Strong Fit
+
+● Now we have a real picture of who you're talking to. This changes the story
+  priority order too — the RPA project becomes your lead story with Neil, not
+  just one of four options.
+
+  Ready to build stories? Run stories add and we'll start with RPA — I'll help
+  you structure it so it lands specifically for Neil.
+
+✻ Sautéed for 37s
+
+❯ /export                                                                       
+  ⎿  Conversation copied to clipboard

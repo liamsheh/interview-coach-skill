@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# Personal coaching data — contains stories, scores, interview targets, and concerns
+coaching_state.md
+
+# Active skill file (created by copying SKILL.md during setup)
+CLAUDE.md
+
+# Datasets for simulated sanction reviews data
+alert_comments.csv
+case_summary.csv
